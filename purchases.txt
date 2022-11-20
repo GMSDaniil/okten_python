@@ -1,0 +1,4 @@
+329e57df-690f-11ed-a097-de1cb1e102d7		Printer		100
+5b7d8e4d-690f-11ed-bcf8-de1cb1e102d7		Laptop		999
+bfbd3e5b-690f-11ed-a667-de1cb1e102d7		Tablet		555
+c6818b7b-690f-11ed-b0c7-de1cb1e102d7		Computer		999
